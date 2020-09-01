@@ -10,7 +10,9 @@
 
 # Index Fungorum web-crawling
 
+The [Index Fungorum](http://www.indexfungorum.org/) database provides all the imfomation about fungal nomenclator, allowing users to search the fungal species name that have been changed. 
 
+To get the old species names of fungi, a pipeline for crawlering from the website was built.
 
 ##  Demo
 
@@ -22,7 +24,7 @@
 
 This method requies [ChromeDriver - WebDriver for Chrome](https://chromedriver.chromium.org/) for crawling websites. Please download the version that matchs your google chrome browser.
 </br> 
-The list of fungal sepcies names is in the file: 
+The list of fungal new sepcies names is in the file: [fungi_new.txt](https://github.com/beritlin/Index-Fungorum-web-crawling/blob/master/fungi_new.txt)
 </br>
 The following python packages were used:
 
